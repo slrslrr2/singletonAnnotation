@@ -105,6 +105,8 @@ beanDefinitionName = configurationConfig
 beanDefinitionName = ConfigService
 ```
 
+여기서 문제, @Configuration을 제외하면 어떻게 될까?
+
 
 
 ##  
